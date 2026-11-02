@@ -18,5 +18,5 @@ CHANGES LIST:
 - Molotov: ~2x throw distance, ~1.5x radius, ~1.25x damage, 5->12 max ammo. Should make it harder to nuke yourself, and more consistent against enemies.
 - PPSH: ROF doubled. This gun fires way too slow in base game, and for such a legendary weapon, that felt off.
 - Mosin: Spread 3->2, dropped rifle ammo 3->4. Now you can use this thing more, normally it has no ammo and the spread matches the (unaimed)c96.
-- Sniper: Spread 3->1, zoom fov 45->30. Again, this thing was as inaccurate as the c96, and had the same amount of zoom. Fixed.
+- Sniper: Spread 3->1.5, zoom fov 45->30. Again, this thing was as inaccurate as the c96, and had the same amount of zoom. Fixed.
 - Electric Gun: Damage 3.5->8. This thing never felt worth using, but not as bad as 3.5 damage, so I just gave it a bunch more damage in hopes of adding some consistency.
