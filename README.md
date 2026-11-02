@@ -1,6 +1,7 @@
 This is the Weapons Adjustment Mod for You Are Empty, by O. Kaya.
 
-The goal was to adjust some gripes with the game's weapons handling/balance for a better QOL while playing. The philosophy was to throw in certain buffs to make some weapons that are normally clunky/weak more usable, and occasionally more realistic in small ways to add to immersion. Feel free to suggest changes to this or make your own variants, though if you're basing off my variant, please credit me. This was based off the info provided by this steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3829777330.
+The goal was to adjust some gripes with the game's weapons handling/balance for a better QOL while playing. The philosophy was to throw in certain buffs to make some weapons that are normally clunky/weak more usable, and occasionally more realistic in small ways to add to immersion. 
+Feel free to suggest changes to this or make your own variants, though if you're basing off my variant, please credit me. This was based off the info provided by this steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3829777330.
 
 It was developed on the Steam version of absolute edition, and I cannot guarantee any compatibility with any other variant.
 If you wish to thank me, wishlist my game, HRSPWR @ https://store.steampowered.com/app/3714900/HRSPWR/
